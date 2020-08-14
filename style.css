@@ -1,0 +1,43 @@
+html {
+    font-size: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgb(9, 7, 38);
+}
+h1 {
+    color: rgb(210, 210, 210);
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 5px 3px 2px rgb(41, 36, 69);
+}
+h2 {
+    color: rgb(210, 210, 210);
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+p {
+    color: rgb(210, 210, 210);
+    font-size: 19px;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+strong {
+    color: rgb(187, 179, 218);
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 15px solid rgb(24, 15, 70);
+
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
